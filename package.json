@@ -1,0 +1,16 @@
+{
+    "name": "chat1",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "server.js"
+    },
+    "main": "server.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.13.4",
+        "moment": "^2.13.0",
+        "socket.io": "^1.4.6"
+    }
+}
